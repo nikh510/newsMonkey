@@ -12,6 +12,8 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 use of the api key from news api and add the api key using enivroment variabe to app.js file
+as the news api does not support for deploymemt it is only used for local host purpose
+
 for the smooth fuction of the app 
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
